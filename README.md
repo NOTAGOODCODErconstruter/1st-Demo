@@ -1,2 +1,1 @@
-# 1st-Demo
-new project Coming soon!
+New project Coming soon!
